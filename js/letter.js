@@ -111,7 +111,7 @@ window.onload = function () {
 		$('#recipient').append(content.to);
 	});
 
-	toBase64("./bgm/bgm.mp3");
+	toBase64("./bgm/Lagjagale.mp3");
 
 	document.addEventListener('touchstart', function (event) {
 		if (event.touches.length > 1) event.preventDefault();
